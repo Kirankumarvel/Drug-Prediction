@@ -8,7 +8,7 @@ This project builds a Decision Tree Classifier to predict drug types based on pa
 
 The dataset used in this project is sourced from IBM Developer Skills Network:
 
-URL: [Drug Classification Dataset]([https://example.com](https://github.com/Kirankumarvel/Drug-Prediction/blob/main/drug200.csv))
+URL: [[Drug Classification Dataset](https://github.com/Kirankumarvel/Drug-Prediction/blob/main/drug200.csv)]
 
 ### Features:
 
